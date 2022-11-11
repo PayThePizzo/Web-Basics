@@ -1,4 +1,4 @@
-# Web-Basics
+# Front End Development
 
 ## Languages
 Html, [Javascript](https://roadmap.sh/javascript), CSS
