@@ -1,2 +1,14 @@
 # Web-Basics
-Javascript, HTML 5, DOM, WebGL
+
+## Languages
+Html, Javascript, CSS
+
+## Frameworks
+React, Angular, Vue.js
+
+## Protocols
+
+## Web Security
+
+
+
